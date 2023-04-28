@@ -14,7 +14,7 @@ To start:
     
 ### Client
         - npm install (in the react-client folder)
-        - npm start
+        - npm run dev
     
 ### Server
         - mvn spring-boot:run (in the spring-ws-server)
