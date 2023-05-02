@@ -14,7 +14,7 @@ To start:
 
 ### Client
 
-        - npm install (in the chatclient folder)
+        - npm install (in the vite-client folder)
         - npm run dev
 
 ### Server
